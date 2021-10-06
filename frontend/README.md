@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Please note that the node_modules have to be installed to run this.
+Please note that the node_modules have to be installed (for both backend and frontend) to run this. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
